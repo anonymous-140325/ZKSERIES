@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Dropbox/utwente backup/research/programmatuur/java/sutd_biometric_mfa/sharpstandalone/lib/curve25519-elisabeth-0.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Dropbox/utwente backup/research/programmatuur/java/sutd_biometric_mfa/sharpstandalone/lib/keccakj-1.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
