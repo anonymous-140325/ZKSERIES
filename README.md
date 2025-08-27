@@ -1,2 +1,2 @@
 # ZKSERIES
-A repository for ZK-SERIES project. 
+A repository for the ZK-SERIES project. 
